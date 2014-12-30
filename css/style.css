@@ -931,7 +931,7 @@
 /* Header */
 
 	#header {
-		background-color: #080808;
+		background-color: #060606;
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
