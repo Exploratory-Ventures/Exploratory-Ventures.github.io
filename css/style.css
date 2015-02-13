@@ -139,7 +139,7 @@
     background-color: #1a1a1a;
     height: 25px;
     padding: 5px;
-    width: 350px;
+    width: 550px;
     margin: 50px 0;         
     border-radius: 5px;
     box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;           
@@ -153,7 +153,7 @@
     transition: width .4s ease-in-out;    
 }
 .blue span {
-    background-color: #34c2e3;   
+    background-color: #49bf9d;   
 }
 
 .orange span {
