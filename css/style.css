@@ -134,7 +134,19 @@
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 1.5em;
 	}
-
+/*progress bar */
+	progressbar {
+	      background-color: white;
+	      border-radius: 13px; /* (height of inner div) / 2 + padding */
+	      padding: 3px;
+	    }
+	    
+	    progressbar > div {
+	       background-color: #49bf9d;
+	       width: 55%; /* Adjust with JavaScript */
+	       height: 20px;
+	       border-radius: 10px;
+	    }
 	code {
 		background: #f7f7f7;
 		border-radius: 0.35em;
@@ -1244,16 +1256,4 @@
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
 	}
-/*progress bar */
-#progressbar {
-      background-color: white;
-      border-radius: 13px; /* (height of inner div) / 2 + padding */
-      padding: 3px;
-    }
-    
-    #progressbar > div {
-       background-color: #49bf9d;
-       width: 55%; /* Adjust with JavaScript */
-       height: 20px;
-       border-radius: 10px;
-    }
+
