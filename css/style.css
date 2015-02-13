@@ -1244,3 +1244,16 @@
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
 	}
+/*progress bar */
+#progressbar {
+      background-color: white;
+      border-radius: 13px; /* (height of inner div) / 2 + padding */
+      padding: 3px;
+    }
+    
+    #progressbar > div {
+       background-color: #49bf9d;
+       width: 55%; /* Adjust with JavaScript */
+       height: 20px;
+       border-radius: 10px;
+    }
