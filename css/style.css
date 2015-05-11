@@ -1035,6 +1035,128 @@
 				padding-top: 0;
 			}
 
+
+/* Blogs */
+	#blogs{
+		position: absolute;
+		width: 30%;
+		height: 100%;
+	}
+
+	.blog { /*left: 12%, 45%. top: Increments of 22*/
+		max-width: 27em;
+		width: calc(100% - 35% - 48%);
+		position: absolute;
+		color: #888585;
+	}
+
+	#blog1 { 
+		margin-left: 12%;
+		margin-top: 1.5%;
+	}
+	#blog2 {
+		margin-left: 45%;
+		margin-top: 1.5%;
+	}
+	#blog3 {
+		margin-left: 12%;
+		margin-top: 23.5%;
+	}
+	#blog4 {
+		margin-left: 45%;
+		margin-top: 23.5%;
+	}
+	#blog5 {
+		margin-left: 12%;
+		margin-top: 45.5%;
+	}
+	.activator{ /*left: 110%, 220%. top: Increments of 40*/
+        width:153px;
+        height:150px;
+        max-width: 100%;
+        max-height: 100%;
+        position:absolute;
+        z-index:1;
+        cursor:pointer;
+        }
+    #activator1{
+    	top:28.35%;
+    	left:110%;
+    	background:#fff url(../images/Example.jpg);
+    	background-size: 100% 100%;
+    }
+    #activator2{
+    	top:28.35%;
+    	left:220%;
+    	background:#fff url(../images/Example.jpg);
+        background-size: 100% 100%;
+    }
+    #activator3{
+    	top: 68.35%;
+    	left: 110%;
+    	background: #fff url(../images/Example.jpg);
+    	background-size: 100% 100%;
+    }
+    #activator4{
+    	top: 68.35%;
+    	left: 220%;
+    	background: #fff url(../images/Example.jpg);
+    	background-size: 100% 100%;
+    }
+    #activator5{
+    	top: 108.35%;
+    	left: 110%;
+    	background: #fff url(../images/Example.jpg);
+    	background-size: 100% 100%;
+    }
+	.overlay{
+            background:transparent url(../images/overlay.png) repeat top left;
+            position:fixed;
+            top:0px;
+            bottom:0px;
+            left:0px;
+            right:0px;
+            z-index:100;
+        }
+        .box{
+            position:fixed;
+            top:-200px;
+            left:30%;
+            right:30%;
+            background-color:#F0ECEC;
+            color:#7F7F7F;
+            padding:20px;
+            border:2px solid #ccc;
+            -moz-border-radius: 20px;
+            -webkit-border-radius:20px;
+            -khtml-border-radius:20px;
+            -moz-box-shadow: 0 1px 5px #333;
+            -webkit-box-shadow: 0 1px 5px #333;
+            z-index:101;
+        }
+        .box h1{
+            border-bottom: 1px dashed #7F7F7F;
+            margin:-20px -20px 0px -20px;
+            padding:10px;
+            background-color:#DFD9D9;
+            color:#8A8787;
+            -moz-border-radius:20px 20px 0px 0px;
+            -webkit-border-top-left-radius: 20px;
+            -webkit-border-top-right-radius: 20px;
+            -khtml-border-top-left-radius: 20px;
+            -khtml-border-top-right-radius: 20px;
+        }
+        a.boxclose{
+            float:right;
+            width:26px;
+            height:26px;
+            background:transparent url(../images/cancel.png) repeat top left;
+            margin-top:-30px;
+            margin-right:-30px;
+            cursor:pointer;
+        }
+
+
 /* Poptrox */
 	@-moz-keyframes spin { 0% { -moz-transform: rotate(0deg); -webkit-transform: rotate(0deg); -o-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); } 100% { -moz-transform: rotate(360deg); -webkit-transform: rotate(360deg); -o-transform: rotate(360deg); -ms-transform: rotate(360deg); transform: rotate(360deg); } }
 	@-webkit-keyframes spin { 0% { -moz-transform: rotate(0deg); -webkit-transform: rotate(0deg); -o-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); } 100% { -moz-transform: rotate(360deg); -webkit-transform: rotate(360deg); -o-transform: rotate(360deg); -ms-transform: rotate(360deg); transform: rotate(360deg); } }
