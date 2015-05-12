@@ -1038,7 +1038,7 @@
 
 /* Blogs */
 	#blogs{
-		position: absolute;
+		position: relative;
 		width: 30%;
 		height: 100%;
 	}
@@ -1049,66 +1049,6 @@
 		position: absolute;
 		color: #888585;
 	}
-
-	#blog1 { 
-		margin-left: 12%;
-		margin-top: 1.5%;
-	}
-	#blog2 {
-		margin-left: 45%;
-		margin-top: 1.5%;
-	}
-	#blog3 {
-		margin-left: 12%;
-		margin-top: 23.5%;
-	}
-	#blog4 {
-		margin-left: 45%;
-		margin-top: 23.5%;
-	}
-	#blog5 {
-		margin-left: 12%;
-		margin-top: 45.5%;
-	}
-	.activator{ /*left: 110%, 220%. top: Increments of 40*/
-        width:153px;
-        height:150px;
-        max-width: 100%;
-        max-height: 100%;
-        position:absolute;
-        z-index:1;
-        cursor:pointer;
-        }
-    #activator1{
-    	top:28.35%;
-    	left:110%;
-    	background:#fff url(../images/Example.jpg);
-    	background-size: 100% 100%;
-    }
-    #activator2{
-    	top:28.35%;
-    	left:220%;
-    	background:#fff url(../images/Example.jpg);
-        background-size: 100% 100%;
-    }
-    #activator3{
-    	top: 68.35%;
-    	left: 110%;
-    	background: #fff url(../images/Example.jpg);
-    	background-size: 100% 100%;
-    }
-    #activator4{
-    	top: 68.35%;
-    	left: 220%;
-    	background: #fff url(../images/Example.jpg);
-    	background-size: 100% 100%;
-    }
-    #activator5{
-    	top: 108.35%;
-    	left: 110%;
-    	background: #fff url(../images/Example.jpg);
-    	background-size: 100% 100%;
-    }
 	.overlay{
             background:transparent url(../images/overlay.png) repeat top left;
             position:fixed;
