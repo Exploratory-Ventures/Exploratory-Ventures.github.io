@@ -735,12 +735,15 @@
 	table {
 		margin: 0 0 2em 0;
 		width: 100%;
+		table-layout: fixed;
 	}
 
 	table img {
 		width: calc(100% - 50%);
 		height: auto;
 		vertical-align: text-top;
+		float: left;
+		padding-right: 10px;
 	}
 
 		table tbody tr {
@@ -755,6 +758,11 @@
 
 		table td {
 			padding: 0.75em 0.75em;
+			word-wrap: break-word;
+		}
+
+		table td p {
+			float: right;
 		}
 
 		table th {
