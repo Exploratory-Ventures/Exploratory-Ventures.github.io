@@ -740,6 +740,7 @@
 	table img {
 		width: calc(100% - 50%);
 		height: auto;
+		vertical-align: text-top;
 	}
 
 		table tbody tr {
