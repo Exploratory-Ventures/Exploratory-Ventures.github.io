@@ -135,7 +135,7 @@
 		padding: 0.5em 0 0.5em 1.5em;
 	}
 	
-	.caption { 
+	#caption { 
 		margin: 5px; 
 		color: #222
 		text-align: center; 
@@ -1048,30 +1048,15 @@
 
 
 /* Blogs */
-	#blogs1{
+	#blogs{
 		position: relative;
 		width: 30%;
 		height: 100%;
 		left: 35%;
 		top: 12em;
-		float: left;
 	}
 
-	#blogs1 img {
-		width: calc(100% - 50%);
-		height: auto;
-	}
-
-	#blogs2{
-		position: relative;
-		width: 30%;
-		height: 100%;
-		right: 35%;
-		top: 12em;
-		float: right;
-	}
-
-	#blogs2 img {
+	#blogs img {
 		width: calc(100% - 50%);
 		height: auto;
 	}
