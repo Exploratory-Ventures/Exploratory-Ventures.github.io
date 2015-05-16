@@ -743,7 +743,7 @@
 	}
 
 		table tbody tr {
-			border: solid 1px #efefef;
+			/*border: solid 1px #efefef;*/
 			border-left: 0;
 			border-right: 0;
 		}
@@ -765,11 +765,11 @@
 		}
 
 		table thead {
-			border-bottom: solid 2px #efefef;
+			/*border-bottom: solid 2px #efefef;*/
 		}
 
 		table tfoot {
-			border-top: solid 2px #efefef;
+			/*border-top: solid 2px #efefef;*/
 		}
 
 		table.alt {
