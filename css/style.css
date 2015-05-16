@@ -1056,7 +1056,7 @@
 	}
 
 	#blogs img {
-		width: calc(100% - 30% - 50%);
+		width: calc(100% - 50%);
 		height: auto;
 	}
 
