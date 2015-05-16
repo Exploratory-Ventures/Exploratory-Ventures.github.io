@@ -1048,15 +1048,30 @@
 
 
 /* Blogs */
-	#blogs{
+	#blogs1{
 		position: relative;
 		width: 30%;
 		height: 100%;
 		left: 35%;
 		top: 12em;
+		float: left;
 	}
 
-	#blogs img {
+	#blogs1 img {
+		width: calc(100% - 50%);
+		height: auto;
+	}
+
+	#blogs2{
+		position: relative;
+		width: 30%;
+		height: 100%;
+		right: 35%;
+		top: 12em;
+		float: right;
+	}
+
+	#blogs2 img {
 		width: calc(100% - 50%);
 		height: auto;
 	}
