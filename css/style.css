@@ -137,7 +137,7 @@
 	
 	#captions { 
 		margin: 5px; 
-		color: black
+		color: #333 !important;
 		text-align: center; 
 		font-size: 12px;
 		float: left; 
