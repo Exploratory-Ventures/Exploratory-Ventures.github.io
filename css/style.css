@@ -737,6 +737,11 @@
 		width: 100%;
 	}
 
+	table img {
+		width: calc(100% - 50%);
+		height: auto;
+	}
+
 		table tbody tr {
 			border: solid 1px #efefef;
 			border-left: 0;
@@ -1046,7 +1051,7 @@
 			}
 
 
-/* Blogs */
+/* Blogs 
 	#blogs1{
 		position: relative;
 		width: 30%;
@@ -1074,7 +1079,7 @@
 		height: auto;
 	}
 
-	.blog { /*left: 12%, 45%. top: Increments of 22*/
+	.blog { /*left: 12%, 45%. top: Increments of 22
 		max-width: 27em;
 		width: calc(100% - 35% - 48%);
 		position: absolute;
@@ -1089,7 +1094,7 @@
             right:0px;
             z-index:100;
         }
-
+*/
 
 /* Poptrox */
 	@-moz-keyframes spin { 0% { -moz-transform: rotate(0deg); -webkit-transform: rotate(0deg); -o-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); } 100% { -moz-transform: rotate(360deg); -webkit-transform: rotate(360deg); -o-transform: rotate(360deg); -ms-transform: rotate(360deg); transform: rotate(360deg); } }
