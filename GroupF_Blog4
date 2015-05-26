@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>RHS Exploratory Ventures</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.poptrox.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		 </head>
+	<body id="top">
+<style>
+p    {color:#333}
+</style>
+
+		<!-- Header -->
+			<header id="header">
+				<a href="https://drive.google.com/folderview?id=0B9FPMNMWXCHIfnkyVVpzbk5Yd2lrdHB1UzBzOXJVN2lqTklPb2FRZkNfR240YVN1QUJaV0U" class="image avatar"><img src="images/XVAUTO.png" alt="" /></a>
+				<h1><strong>Exploratory Ventures</strong>: introducing<br />
+				high school students to science and engineering.
+			</h1>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+		
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>Blog Post: Patricia and Lucas<br />
+							</h2>
+						</header>
+						<p>
+
+   "Maybe we shouldn't have ordered from banggood.com" an insightful quote by Sam Silver.
+"GitHub Can GetOut!" a famous anonymous quote
+     This week our group began working on our physical quadcopter. We recently received our quadcopter blades, which we were very disappointed with. Although the quadcopter blades were not as large or as sturdy as we would have liked them, we quickly ordered new carbon fiber blades, which we quickly received  through amazon prime. We immediately began testing our new carbon fiber blades, however we were disappointed with the speed that the motors were  able to spin them.
+
+      Because the motors that we had at our disposal were under powered we were again confronted with another problem. It was hard to decide whether or not to order new motors from amazon prime, or if we should wait another week for our motors to arrive from the infamous banggood.com. We decided that it would be best to order new motors from amazon prime because, the infamous banggood.com had disappointed us before.
+
+      As the trimester becomes closer and closer to ending, it seems we have bitten off more than we can chew. Our goal for next week is to finish the hardware on our quadcopter so that we can begin bug-testing for the next couple of weeks. It will not be easy to finish our quadcopter before the end of the trimester, however I am confident that we can do it. With a team of geniuses such as ours, there is nothing we can't accomplish.
+				</p></p></p></p></p></p>	</section>
+				
+			
+				
+			</div>
+			
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://www.github.com/Exploratory-Ventures" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://www.facebook.com/exploratoryventures" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="mailto:RiverdaleXV@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Riverdale High School</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
+
+	</body>
+</html>
